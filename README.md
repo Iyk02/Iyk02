@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Iyk02&style=flat-square&color=blueviolet)
 
 ### Hi there 👋  I'm Ikechi
-🌟 Machine Learning (ML) / Computer Vision (CV) Engineer | ML/CV Researcher 🌟
+🌟 Machine Learning (ML) / Computer Vision (CV) Engineer | ML / CV Researcher 🌟
 
 Welcome to my Github profile!
 
