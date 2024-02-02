@@ -5,8 +5,6 @@
 
 Welcome to my Github profile!
 
-- 🔭 I’m currently a PhD student
-
 <b>Skills</b>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,git,bash,opencv,tensorflow)](https://skillicons.dev)
