@@ -3,7 +3,10 @@
 ### Hi there 👋  I'm Ikechi
 🌟 Applied ML / CV Researcher 🌟
 
-Welcome to my Github profile!
+🧠 Interests
+- Industrial Applications of Computer Vision & Deep Learning
+- Autonomous Systems & Self-Driving Cars
+
 
 <b>Skills</b>
 
